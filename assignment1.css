@@ -1,0 +1,318 @@
+.top {
+  width: auto;
+  height: 70px;
+  background-color: #ce0505;
+  position: relative;
+}
+
+.Ellipse {
+  width: 25px;
+  height: 40px;
+  margin: 12px 774px 0 102px;
+  padding: 1px 10px 4px;
+  background-color: #ffffff;
+  position: absolute;
+  border-radius: 100%;
+}
+
+.edu{
+  width: 32px;
+  height: 47px;
+  font-family: Poppins;
+  font-size: 33px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: left;
+  color: #eb2929;
+  
+}
+
+.login {
+  color: white;
+  border: none;
+  background-color: #ce0505;
+  position: inherit;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: center;
+  width: 43px;
+  height: 43px;
+  margin: 12px 30px 11px 0;
+  float: right;
+}
+
+.create {
+  color: white;
+  background-color: #ce0505;
+  position: inherit;
+  width: 152px;
+  height: 43px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  border-color: #ffffff;
+  float: right;
+  margin: 13px 77px 11px 0;
+}
+
+select {
+  width: 208px;
+  height: 35px;
+  margin: 11px 0 22px 1px;
+  padding: 8px 16.7px 7px 15px;
+  border-radius: 3px;
+  border: solid 1px #8c96ab;
+}
+
+
+.Breakfast-Places-in-Mumbai {
+  width: 512px;
+  height: 51px;
+  margin: 37px 25px 27px 113px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.Filters {
+  width: 55px;
+  height: 25px;
+  margin: 0 154px 10px 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.Select-Location {
+  width: 106px;
+  height: 20px;
+  margin: 10px 102px 11px 1px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.Rectangle-2226 {
+  width: 18px;
+  height: 18px;
+  margin: 15px 11px 14px 1px;
+  border-radius: 1.5px;
+  border: solid 1.5px #3a5075;
+}
+
+.Sort {
+  width: 37px;
+  height: 25px;
+  margin: 29px 172px 15px 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.North-Indian {
+  width: 85px;
+  height: 20px;
+  margin: 15px 65px 12px 11px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.panel {
+  height: auto;
+  width: auto;
+}
+
+.panel_1 {
+  width: 210px;
+  height: auto;
+  margin: 10px 45px 8px 113px;
+  padding: 17px 25px 31px 25px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  position: absolute;
+}
+
+.panel_2 {
+  width: 60%;
+  height: auto;
+  margin: 0px 45px 8px 35px;
+  padding: 10px 25px 31px 26px;
+  position: absolute;
+  left: 360px;
+}
+
+.panel_one {
+  
+  height: 300px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  margin-bottom: 40px;
+}
+
+.panel_two {
+  
+  height: 300px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: white;
+  margin-bottom: 40px;
+}
+
+.panel_three {
+  
+  height: 150px;  
+  background-color: white;
+  padding: 69px 0px 0px 290px;
+}
+
+.img-rad {
+  border-radius: 20px;
+  position: absolute;
+  left: 55px;
+  top: 50px;
+  width: 120px;
+  height: 120px;
+}
+
+.The-Big-Chill-Cakery {
+  
+  margin: 40px 252.4px 7px 0px;
+  color: #192f60;
+  position: absolute;
+  left: 200px;
+}
+
+.FORT {
+  
+  margin: 90px 100px 5px 0px;
+  color: #192f60;
+  position: absolute;
+  left: 205px;
+}
+
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+  
+  margin: 120px 195.4px 38px 5px;
+  color: #636f88;
+  position: absolute;
+  left: 200px;
+}
+
+.Cuisine{
+    float: left;
+    padding: 200px 400px 400px 30px;
+    margin: 10px 10px 5px 10px;
+    color: #636f88;
+    position: absolute;
+}
+
+.cost{
+    padding: 110px ;
+    color: #192f60;
+}
+
+.Cost2{
+  float: left;
+  padding: 235px 400px 400px 30px;
+  margin: 10px 10px 5px 10px;
+  color: #636f88;
+}
+
+.rate{
+  padding: 65px;
+  color:#192f60;
+}
+
+.img-rad2 {
+  border-radius: 20px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 50px;
+  margin-top: 35px;
+
+}
+
+.Cuisine1{
+  float: left;
+  padding: 200px 400px 400px 30px;
+  margin: 10px 10px 5px 10px;
+  color: #636f88;
+  position: absolute;
+}
+
+.Cost3{
+  float: left;
+  padding: 5px 5px 5px 5px;
+  margin: -80px 10px 0px 34px;
+  color: #636f88;
+}
+
+.rate2{
+  padding: 65px;
+  color:#192f60;
+}
+
+.box1{
+  width: 10px;
+  height: 40px;
+  margin-right: 12px;
+  padding: 5px 12px 3px 13px;
+  border-radius: 7px;
+  border: solid 1px #8c96ab;
+  background-color: #8c96ab;
+}
+
+.boxall{
+  width: 10px;
+  height: 40px;
+  margin-right: 12px;
+  padding: 5px 12px 3px 13px;
+  border-radius: 7px;
+  border: solid 1px #8c96ab;
+  background-color: #ffffff;
+}
